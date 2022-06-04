@@ -1,4 +1,4 @@
-# Detección y diagnóstico de plagas en plantas mediante Redes Neuronales Convolucionales 
+# Detección y diagnóstico de plagas en plantas mediante Redes Neuronales Convolucionales y Transfer Learning
 
 En algunas zonas rurales la observación visual sigue siendo el enfoque principal para la identificación de plagas en las cosechas, esto requiere un seguimiento continuo por parte de agricultores expertos, en muchas ocasiones teniendo que realizar este tipo de tareas en áreas remotas, lo cual requiere desplazamientos con el coste económico y de tiempo que esto conlleva. Además, la identificación temprana de plagas en las plantas tiene un impacto positivo en la calidad de los cultivos.
 
